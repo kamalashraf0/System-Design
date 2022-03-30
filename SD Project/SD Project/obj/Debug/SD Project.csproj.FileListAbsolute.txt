@@ -1,0 +1,11 @@
+C:\Users\kamal\source\repos\SD Project\SD Project\bin\Debug\SD Project.exe.config
+C:\Users\kamal\source\repos\SD Project\SD Project\bin\Debug\SD Project.exe
+C:\Users\kamal\source\repos\SD Project\SD Project\bin\Debug\SD Project.pdb
+C:\Users\kamal\source\repos\SD Project\SD Project\obj\Debug\SD Project.csprojAssemblyReference.cache
+C:\Users\kamal\source\repos\SD Project\SD Project\obj\Debug\SD_Project.Form1.resources
+C:\Users\kamal\source\repos\SD Project\SD Project\obj\Debug\SD_Project.Properties.Resources.resources
+C:\Users\kamal\source\repos\SD Project\SD Project\obj\Debug\SD Project.csproj.GenerateResource.cache
+C:\Users\kamal\source\repos\SD Project\SD Project\obj\Debug\SD Project.csproj.CoreCompileInputs.cache
+C:\Users\kamal\source\repos\SD Project\SD Project\obj\Debug\SD Project.exe
+C:\Users\kamal\source\repos\SD Project\SD Project\obj\Debug\SD Project.pdb
+C:\Users\kamal\source\repos\SD Project\SD Project\obj\Debug\SD_Project.Form2.resources
